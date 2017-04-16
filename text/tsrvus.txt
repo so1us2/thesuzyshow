@@ -116,20 +116,7 @@ I remain disappointed and profoundly afraid for my own future because of the ove
 
 A typical morning of Wikipedia History:
 
-[(CODE
-Whig party
-. . Henry Clay
-. . . . Hanover County
-. . Second Party System
-. . . . First Party System
-. . . . . . Alexander Hamilton
-. . . . . . Federalist Papers
-. . . . Bank War
-. . . . History of Central Banking in the US
-. . . . . . Second Bank of the US
-. . . . Andrew Jackson
-. . Compromise of 1850
-)]
+REDACTED
 
 This pattern of Internet usage is suspect! Deploy the usual obfuscation features.
 

@@ -38,9 +38,9 @@ The additional information about these characters that can be found in the WhatL
 
 For example, individual facial expressions could be tagged by identifying the series of frames in a video where the expression occurs, and a rough outline can be drawn on each of these frames, such that the outlines that contain effectively all and only all of the visual evidence of the facial expression.
 
-In this way, it could be possible to see all of the different facial expressions that the character is known to make, and then those expressions can be cross referenced with any and all aspects of the context in which the expression was made, such as the words the character was saying before and after, or the tone of the previous speech to which the character was responding, and so on and so forth.  This is the promise of the power of structured data in the rapidly approaching era of intelligent machines! Amen and namaste.
+In this way, it could be possible to see all of the different facial expressions that the character is known to make, and then those expressions can be cross referenced with any and all aspects of the context in which the expression was made, such as the words the character was saying before and after, or the tone of the previous speech to which the character was responding, and so on and so forth.  This is the promise of the power of structured data in the rapidly approaching era of intelligent machines!
 
-[[DECK A]]
+[[DECKS A&B]]
 
 [(CODE
 J1: mRyzus
@@ -103,7 +103,7 @@ J: Rev = revolutionary reverend
 2: Blaming
 )]
 
-[[DECK B]]
+...
 
 [(CODE
 J1: Suzy
@@ -165,6 +165,10 @@ J: News = over the top parody of the Captain; foolhardy
 3: Playing
 2: Joking
 )]
+
+[[TheSuzy Diet]]
+
+TODO
 
 [[Exercise script]]
 
@@ -378,6 +382,14 @@ stretch 0
 . deep seated toe touch
 
 )]
+
+[[Narrative Preface]]
+
+TODO pref.txt goes here
+
+[[Postface Outline]]
+
+TODO line.txt goes here
 
 [[TheSuzy Fashion Show]]
 

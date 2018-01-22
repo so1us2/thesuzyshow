@@ -24,8 +24,6 @@ SOFTWARE.
 
 Todd Perry is the founder of Tsuzy LLC, and TheSuzy.com Show is a human readable dataset that Todd wrote about the growth that occured in his brain after he started dressing up as a primarily feminine character named Suzy.
 
-Todd previously taught himself to program computer games starting in elementary school, and then, later on, he worked as a software engineer for several technology companies in Silicon Valley.
-
 [[About Tsuzy LLC]]
 
 The ultimate goal of Tsuzy LLC is to create an open source program, code named Suzybot, that's capable of creating its own human readable dataset about the growth of its virtual brain after it starts participating in conversations with humans. We will invite as many people as possible to run their instances of the Suzybot code on their servers so that the many different chatbot instances will have the opportunity to create their own, unique, human readable datasets about themselves.
